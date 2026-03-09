@@ -77,7 +77,7 @@
 
 | # | Projet | Stack | Statut |
 |---|--------|-------|--------|
-| 01 | [🔍 Hacker News EDA](https://github.com/InesAjd92/hacker-news-eda) | Python · Pandas · Seaborn | ✅ Terminé |
+| 01 | [🔍 Hacker News EDA](https://github.com/InesAjd92/hackers-news-eda) | Python · Pandas · Seaborn | ✅ Terminé |
 | 02 | 📊 Analyse Audience & Médias | Python · Pandas | 🔄 En cours |
 | 03 | 🗄️ Dashboard SQL Analytics | SQL · Power BI | 🔜 Bientôt |
 
@@ -160,7 +160,7 @@
 
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
-| 01 | [🔍 Hacker News EDA](https://github.com/InesAjd92/hacker-news-eda) | Python · Pandas · Seaborn | ✅ Done |
+| 01 | [🔍 Hacker News EDA](https://github.com/InesAjd92/hackers-news-eda) | Python · Pandas · Seaborn | ✅ Done |
 | 02 | 📊 Media & Audience EDA | Python · Pandas | 🔄 In progress |
 | 03 | 🗄️ SQL Analytics Dashboard | SQL · Power BI | 🔜 Coming soon |
 
