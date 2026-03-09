@@ -31,8 +31,6 @@
 
 <br>
 
-# 🇫🇷 Version Française
-
 ```python
 >>> import ines
 
@@ -40,7 +38,7 @@
 {
   "nom"          : "Ines Amdjahed",
   "poste"        : "Data Analyst Junior",
-  "localisation" : "Paris, France 🇫🇷",
+  "localisation" : "Paris, France",
   "secteurs"     : ["Médias & Audience", "Social Media Analytics"],
   "statut"       : "🟢 Ouverte aux opportunités"
 }
@@ -86,9 +84,9 @@
 ## `$ cat a-propos.txt`
 
 > Passionnée par la donnée dans le secteur des **médias et de l'audience**,
-> je construis des analyses qui racontent une histoire — pas juste des chiffres.
+> je construis des analyses qui racontent une histoire, pas juste des chiffres.
 >
-> Après un parcours académique en sciences sociales et une reconversion vers la data,
+> Après un parcours académique en sciences sociales, j'ai décidé de me spécialiser en data,
 > je combine curiosité analytique et sens du récit pour transformer des datasets
 > en insights actionnables.
 >
@@ -114,7 +112,7 @@
 
 <br>
 
-# 🇬🇧 English Version
+# English version
 
 ```python
 >>> import ines
