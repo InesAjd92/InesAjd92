@@ -39,7 +39,7 @@
   "nom"          : "Ines Amdjahed",
   "poste"        : "Data Analyst",
   "localisation" : "Paris, France",
-  "secteurs"     : ["Médias & Audience", "Social Media Analytics"],
+  "secteurs"     : ["Médias & Audience", "Sciences sociales"],
   "statut"       : "🟢 Ouverte aux opportunités"
 }
 ```
@@ -76,7 +76,7 @@
 | # | Projet | Stack | Statut |
 |---|--------|-------|--------|
 | 01 | [ Hacker News EDA](https://github.com/InesAjd92/hackers-news-eda) | Python · Pandas · Seaborn | ✅ Terminé |
-| 02 | [La génération débranchée — Réseaux sociaux & TV 15-34 ans](https://github.com/InesAjd92/social-media-vs-traditional-media) | Python · Pandas · Scipy · Matplotlib | ✅ Terminé |
+| 02 | [Réseaux sociaux & TV 15-34 ans](https://github.com/InesAjd92/social-media-vs-traditional-media) | Python · Pandas · Scipy · Matplotlib | ✅ Terminé |
 | 03 | Dashboard SQL Analytics | SQL · Power BI | 🔜 Bientôt |
 
 ---
@@ -95,13 +95,13 @@
 
 ---
 
-## `$ ./contact.sh`
+## `Contact
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://www.linkedin.com/in/ines-amdjahed/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5ff)](mailto:amdjahedines@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00f5ff)](https://inesamdjahed.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00f5ff)](https://inesajd92.github.io/)
 
 </div>
 
@@ -184,7 +184,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://www.linkedin.com/in/ines-amdjahed/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5ff)](mailto:amdjahedines@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00f5ff)](https://inesamdjahed.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00f5ff)](https://inesajd92.github.io/)
 
 </div>
 
