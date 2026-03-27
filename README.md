@@ -21,9 +21,9 @@
 
 **Choisissez votre langue · Choose your language**
 
-[![FR](https://img.shields.io/badge/🇫🇷_Français-0d1117?style=for-the-badge&logoColor=00f5ff)](#-version-française)
+[![FR](https://img.shields.io/badge/Français-0d1117?style=for-the-badge&logoColor=00f5ff)](#-version-française)
 &nbsp;&nbsp;
-[![EN](https://img.shields.io/badge/🇬🇧_English-0d1117?style=for-the-badge&logoColor=00f5ff)](#-english-version)
+[![EN](https://img.shields.io/badge/English-0d1117?style=for-the-badge&logoColor=00f5ff)](#-english-version)
 
 </div>
 
@@ -37,7 +37,7 @@
 >>> ines.profil()
 {
   "nom"          : "Ines Amdjahed",
-  "poste"        : "Data Analyst Junior",
+  "poste"        : "Data Analyst",
   "localisation" : "Paris, France",
   "secteurs"     : ["Médias & Audience", "Social Media Analytics"],
   "statut"       : "🟢 Ouverte aux opportunités"
@@ -46,7 +46,7 @@
 
 ---
 
-## `$ cat competences.txt`
+## Compétences
 
 **Langages & Librairies**
 
@@ -71,26 +71,26 @@
 
 ---
 
-## `$ ls projets/`
+## Projets
 
 | # | Projet | Stack | Statut |
 |---|--------|-------|--------|
-| 01 | [🔍 Hacker News EDA](https://github.com/InesAjd92/hackers-news-eda) | Python · Pandas · Seaborn | ✅ Terminé |
-| 02 | 📊 Analyse Audience & Médias | Python · Pandas | 🔄 En cours |
-| 03 | 🗄️ Dashboard SQL Analytics | SQL · Power BI | 🔜 Bientôt |
+| 01 | [ Hacker News EDA](https://github.com/InesAjd92/hackers-news-eda) | Python · Pandas · Seaborn | ✅ Terminé |
+| 02 | [La génération débranchée — Réseaux sociaux & TV 15-34 ans](https://github.com/InesAjd92/social-media-vs-traditional-media) | Python · Pandas · Scipy · Matplotlib | ✅ Terminé |
+| 03 | Dashboard SQL Analytics | SQL · Power BI | 🔜 Bientôt |
 
 ---
 
-## `$ cat a-propos.txt`
+## A propos de moi
 
 > Passionnée par la donnée dans le secteur des **médias et de l'audience**,
-> je construis des analyses qui racontent une histoire, pas juste des chiffres.
+> je construis des analyses qui racontent une histoire.
 >
 > Après un parcours académique en sciences sociales, j'ai décidé de me spécialiser en data,
 > je combine curiosité analytique et sens du récit pour transformer des datasets
 > en insights actionnables.
 >
-> Actuellement à la recherche d'une opportunité en tant que **Data Analyst Junior**
+> Actuellement à la recherche d'une opportunité en tant que **Data Analyst**
 > dans le secteur médias, audience ou digital.
 
 ---
@@ -120,8 +120,8 @@
 >>> ines.profile()
 {
   "name"     : "Ines Amdjahed",
-  "role"     : "Junior Data Analyst",
-  "location" : "Paris, France 🇫🇷",
+  "role"     : "Data Analyst",
+  "location" : "Paris, France ",
   "focus"    : ["Media & Audience Analytics", "Social Media Analytics"],
   "status"   : "🟢 Open to opportunities"
 }
@@ -129,7 +129,7 @@
 
 ---
 
-## `$ cat skills.txt`
+## Skills
 
 **Languages & Libraries**
 
@@ -154,17 +154,17 @@
 
 ---
 
-## `$ ls projects/`
+## Projects
 
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
-| 01 | [🔍 Hacker News EDA](https://github.com/InesAjd92/hackers-news-eda) | Python · Pandas · Seaborn | ✅ Done |
-| 02 | 📊 Media & Audience EDA | Python · Pandas | 🔄 In progress |
-| 03 | 🗄️ SQL Analytics Dashboard | SQL · Power BI | 🔜 Coming soon |
+| 01 | [Hacker News EDA](https://github.com/InesAjd92/hackers-news-eda) | Python · Pandas · Seaborn | ✅ Done |
+| 02 | Media & Audience EDA | Python · Pandas | 🔄 In progress |
+| 03 | SQL Analytics Dashboard | SQL · Power BI | 🔜 Coming soon |
 
 ---
 
-## `$ cat about.txt`
+## About me
 
 > Passionate about data in the **media and audience** industry,
 > I build analyses that tell a story — not just display numbers.
@@ -178,7 +178,7 @@
 
 ---
 
-## `$ ./contact.sh`
+## Contact
 
 <div align="center">
 
