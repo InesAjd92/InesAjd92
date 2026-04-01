@@ -114,7 +114,7 @@
   "role"     : "Data Analyst",
   "location" : "Paris, France ",
   "focus"    : ["Media & Audience Analytics", "Social Media Analytics"],
-  "status"   : "🟢 Open to opportunities"
+  "status"   : "Open to opportunities"
 }
 ```
 
