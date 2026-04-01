@@ -86,7 +86,7 @@
 
 ---
 
-## `Contact
+## Contact
 
 <div align="center">
 
@@ -150,7 +150,7 @@
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
 | 01 | [Hacker News EDA](https://github.com/InesAjd92/hackers-news-eda) | Python · Pandas · Seaborn | ✅ Done |
-| 02 | Media & Audience EDA | Python · Pandas | 🔄 In progress |
+| 02 | [Réseaux sociaux & TV 15-34 ans](https://github.com/InesAjd92/social-media-vs-traditional-media) | Python · Pandas · Scipy · Matplotlib | ✅ Done |
 | 03 | SQL Analytics Dashboard | SQL · Power BI | 🔜 Coming soon |
 
 ---
@@ -158,13 +158,13 @@
 ## About me
 
 > Passionate about data in the **media and audience** industry,
-> I build analyses that tell a story — not just display numbers.
+> I build analyses that tell a story, not just display numbers.
 >
 > Coming from a social sciences background and transitioning into data,
 > I combine analytical curiosity with storytelling to turn datasets
 > into actionable insights.
 >
-> Currently looking for a **Junior Data Analyst** opportunity
+> Currently looking for a **Data Analyst** opportunity
 > in the media, audience or digital sector.
 
 ---
