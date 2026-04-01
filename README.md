@@ -1,17 +1,8 @@
 <!-- Profile README — Ines Amdjahed -->
 
-```
-██╗███╗   ██╗███████╗███████╗     █████╗ ███╗   ███╗██████╗      ██╗ █████╗ ██╗  ██╗███████╗██████╗
-██║████╗  ██║██╔════╝██╔════╝    ██╔══██╗████╗ ████║██╔══██╗     ██║██╔══██╗██║  ██║██╔════╝██╔══██╗
-██║██╔██╗ ██║█████╗  ███████╗    ███████║██╔████╔██║██║  ██║     ██║███████║███████║█████╗  ██║  ██║
-██║██║╚██╗██║██╔══╝  ╚════██║    ██╔══██║██║╚██╔╝██║██║  ██║██   ██║██╔══██║██╔══██║██╔══╝  ██║  ██║
-██║██║ ╚████║███████╗███████║    ██║  ██║██║ ╚═╝ ██║██████╔╝╚█████╔╝██║  ██║██║  ██║███████╗██████╔╝
-╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝    ╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝
-```
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Data+Analyst+Junior;Python+%7C+SQL+%7C+Power+BI;Turning+data+into+insights+%F0%9F%93%8A;Open+to+opportunities+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+data+into+insights+%F0%9F%93%8A;Open+to+opportunities+%F0%9F%9A%80)
 
 </div>
 
@@ -40,7 +31,7 @@
   "poste"        : "Data Analyst",
   "localisation" : "Paris, France",
   "secteurs"     : ["Médias & Audience", "Sciences sociales"],
-  "statut"       : "🟢 Ouverte aux opportunités"
+  "statut"       : "Ouverte aux opportunités"
 }
 ```
 
@@ -88,7 +79,7 @@
 >
 > Après un parcours académique en sciences sociales, j'ai décidé de me spécialiser en data,
 > je combine curiosité analytique et sens du récit pour transformer des datasets
-> en insights actionnables.
+> en solutions actionnables.
 >
 > Actuellement à la recherche d'une opportunité en tant que **Data Analyst**
 > dans le secteur médias, audience ou digital.
