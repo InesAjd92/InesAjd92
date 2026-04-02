@@ -98,10 +98,7 @@
 
 ---
 
-
 ---
-
-<br>
 
 <a name="version-française"></a>
 
