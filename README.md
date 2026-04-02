@@ -68,7 +68,7 @@
 |---|---------|-------|--------|
 | 01 | [Hacker News EDA](https://github.com/InesAjd92/hackers-news-eda) | Python · Pandas · Seaborn | ✅ Done |
 | 02 | [Social media & TV (15-34)](https://github.com/InesAjd92/social-media-vs-traditional-media) | Python · Pandas · Scipy · Matplotlib | ✅ Done |
-| 03 | Spotify Analytics Dashboard | Excel | ✅ Done |
+| 03 | Spotify Analytics Dashboard | Excel · KPI · Data Visualization | ✅ Done |
 
 ---
 
@@ -148,7 +148,7 @@
 |---|--------|-------|--------|
 | 01 | [ Hacker News EDA](https://github.com/InesAjd92/hackers-news-eda) | Python · Pandas · Seaborn | ✅ Terminé |
 | 02 | [Réseaux sociaux & TV 15-34 ans](https://github.com/InesAjd92/social-media-vs-traditional-media) | Python · Pandas · Scipy · Matplotlib | ✅ Terminé |
-| 03 | Dashboard Spotify Top Streams | Excel | ✅ Terminé |
+| 03 | Dashboard Spotify Top Streams | Excel · KPI · Data Visualization | ✅ Terminé |
 
 ---
 
