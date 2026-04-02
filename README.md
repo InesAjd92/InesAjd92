@@ -1,4 +1,4 @@
-<!-- Profile README — Ines Amdjahed -->
+<!-- Profile README -->
 
 <div align="center">
 
@@ -9,18 +9,101 @@
 ---
 
 <div align="center">
+<div align="center">
 
-**Choisissez votre langue · Choose your language**
+**Choose your language · Choisissez votre langue**
 
-[![FR](https://img.shields.io/badge/Français-0d1117?style=for-the-badge&logoColor=00f5ff)](#-version-française)
+[![EN](https://img.shields.io/badge/English-0d1117?style=for-the-badge&logoColor=00f5ff)](#english-version)
 &nbsp;&nbsp;
-[![EN](https://img.shields.io/badge/English-0d1117?style=for-the-badge&logoColor=00f5ff)](#-english-version)
+[![FR](https://img.shields.io/badge/Français-0d1117?style=for-the-badge&logoColor=00f5ff)](#version-française)
+
+</div>
+</div>
+
+<a name="english-version"></a>
+
+```python
+>>> import ines
+
+>>> ines.profile()
+{
+  "name"     : "Ines Amdjahed",
+  "role"     : "Data Analyst",
+  "location" : "Paris, France ",
+  "focus"    : ["Media & Audience Analytics", "Social Media Analytics"],
+  "status"   : "Open to opportunities"
+}
+```
+
+---
+
+## Skills
+
+**Languages & Libraries**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00f5ff)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00f5ff)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00f5ff)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00f5ff)
+
+**Visualisation & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=00f5ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=00f5ff)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=00f5ff)
+
+**Tools**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+---
+
+## Projects
+
+| # | Project | Stack | Status |
+|---|---------|-------|--------|
+| 01 | [Hacker News EDA](https://github.com/InesAjd92/hackers-news-eda) | Python · Pandas · Seaborn | ✅ Done |
+| 02 | [Social media & TV (15-34)](https://github.com/InesAjd92/social-media-vs-traditional-media) | Python · Pandas · Scipy · Matplotlib | ✅ Done |
+| 03 | Spotify Analytics Dashboard | Excel | ✅ Done |
+
+---
+
+## About me
+
+> Passionate about data in the **media and audience** industry,
+> I build analyses that tell a story, not just display numbers.
+>
+> Coming from a social sciences background and transitioning into data,
+> I combine analytical curiosity with storytelling to turn datasets
+> into actionable insights.
+>
+> Currently looking for a **Data Analyst** opportunity
+> in the media, audience or digital sector.
+
+---
+
+## Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://www.linkedin.com/in/ines-amdjahed/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5ff)](mailto:amdjahedines@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00f5ff)](https://inesajd92.github.io/)
 
 </div>
 
 ---
 
+
+---
+
 <br>
+
+<a name="version-française"></a>
 
 ```python
 >>> import ines
@@ -68,19 +151,16 @@
 |---|--------|-------|--------|
 | 01 | [ Hacker News EDA](https://github.com/InesAjd92/hackers-news-eda) | Python · Pandas · Seaborn | ✅ Terminé |
 | 02 | [Réseaux sociaux & TV 15-34 ans](https://github.com/InesAjd92/social-media-vs-traditional-media) | Python · Pandas · Scipy · Matplotlib | ✅ Terminé |
-| 03 | Dashboard SQL Analytics | SQL · Power BI | 🔜 Bientôt |
+| 03 | Dashboard Spotify Top Streams | Excel | ✅ Terminé |
 
 ---
 
-## A propos de moi
+## À propos de moi
 
 > Passionnée par la donnée dans le secteur des **médias et de l'audience**,
-> je construis des analyses qui racontent une histoire.
->
-> Après un parcours académique en sciences sociales, j'ai décidé de me spécialiser en data,
-> je combine curiosité analytique et sens du récit pour transformer des datasets
-> en solutions actionnables.
->
+> je construis des analyses qui aident à comprendre et à décider.
+> 
+> Grâce à mon profil hybride, mi-tech / mi-comm, je combine rigueur analytique et storytelling.
 > Actuellement à la recherche d'une opportunité en tant que **Data Analyst**
 > dans le secteur médias, audience ou digital.
 
@@ -97,83 +177,6 @@
 </div>
 
 <br>
-
----
-# English version
-
-```python
->>> import ines
-
->>> ines.profile()
-{
-  "name"     : "Ines Amdjahed",
-  "role"     : "Data Analyst",
-  "location" : "Paris, France ",
-  "focus"    : ["Media & Audience Analytics", "Social Media Analytics"],
-  "status"   : "Open to opportunities"
-}
-```
-
----
-
-## Skills
-
-**Languages & Libraries**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00f5ff)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00f5ff)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00f5ff)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00f5ff)
-
-**Visualisation & BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=00f5ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=00f5ff)
-![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=00f5ff)
-
-**Tools**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
----
-
-## Projects
-
-| # | Project | Stack | Status |
-|---|---------|-------|--------|
-| 01 | [Hacker News EDA](https://github.com/InesAjd92/hackers-news-eda) | Python · Pandas · Seaborn | ✅ Done |
-| 02 | [Réseaux sociaux & TV 15-34 ans](https://github.com/InesAjd92/social-media-vs-traditional-media) | Python · Pandas · Scipy · Matplotlib | ✅ Done |
-| 03 | SQL Analytics Dashboard | SQL · Power BI | 🔜 Coming soon |
-
----
-
-## About me
-
-> Passionate about data in the **media and audience** industry,
-> I build analyses that tell a story, not just display numbers.
->
-> Coming from a social sciences background and transitioning into data,
-> I combine analytical curiosity with storytelling to turn datasets
-> into actionable insights.
->
-> Currently looking for a **Data Analyst** opportunity
-> in the media, audience or digital sector.
-
----
-
-## Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://www.linkedin.com/in/ines-amdjahed/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5ff)](mailto:amdjahedines@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00f5ff)](https://inesajd92.github.io/)
-
-</div>
 
 ---
 
