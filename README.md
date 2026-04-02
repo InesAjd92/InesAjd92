@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+data+into+insights+%F0%9F%93%8A;Open+to+opportunities+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+data+into+insights;Open+to+opportunities)
 
 </div>
 
@@ -99,10 +99,6 @@
 <br>
 
 ---
----
-
-<br>
-
 # English version
 
 ```python
